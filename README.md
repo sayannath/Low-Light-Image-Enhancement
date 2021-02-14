@@ -2,7 +2,7 @@
 
 ### Image Enhancement using MIRNet and Tensorflow 2.4.1
 
-Reference Paper: https://arxiv.org/pdf/2003.06792v2.pdf
+Reference Paper: https://arxiv.org/pdf/2003.06792v2.pdf <br>
 Reference Repositry Link: https://github.com/soumik12345/MIRNet/
 
 ## Output I got
